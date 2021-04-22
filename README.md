@@ -1,3 +1,4 @@
 # hello-world
 Hello World Repository
 Hello my name is Kristie.
+I love chocolate.
